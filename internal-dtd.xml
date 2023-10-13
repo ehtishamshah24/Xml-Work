@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech [
+
+<!ELEMENT aptech (faculty*, it)>
+<!ELEMENT faculty ( name, designation)>
+<!ELEMENT it (name, designation, salary)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT designation (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+]>
+
+<aptech>
+    <faculty>
+        <name>Hamza</name>
+        <designation>Senior faculty</designation>
+    </faculty>
+    <faculty>
+        <name>Ali</name>
+        <designation>Senior faculty</designation>
+    </faculty>
+    <faculty>
+        <name>Uzair</name>
+        <designation>Senior faculty</designation>
+    </faculty>
+
+    <it>
+        <salary>150,000</salary>
+    </it>
+</aptech>
