@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school>
+
+<class9>
+<student>30</student>
+<subject>8</subject>
+<teachers>5</teachers>
+</class9>
+
+<class10>
+<student>30</student>
+<subject>8</subject>
+<teachers>5</teachers>
+</class10>
+
+
+</school>
