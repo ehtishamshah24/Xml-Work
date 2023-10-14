@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE aptech [
+<!ELEMENT aptech (faculty, it)>
+<!ELEMENT faculty (name, designation, company)>
+<!ELEMENT it (name, designation, salary)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT designation (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT salary (#PCDATA)>
+<!ATTLIST name province CDATA #REQUIRED>
+<!ATTLIST designation City CDATA #FIXED 'Karachi'>
+<!ATTLIST salary amount CDATA #IMPLIED>
+<!ENTITY company  "Aptech Shahra-e-Faisal">
+
+]>
+
+<aptech>
+<faculty>
+    <name province='Sindh'>Hamza</name>
+    <designation City="Karachi">Senior Faculty</designation>
+    <company>&company;</company>
+</faculty>
+<it>
+    <name province='Sindh'>Ali</name>
+    <designation City="Karachi">Junior Faculty</designation>
+    <salary >150,000</salary>
+</it>
+
+
+</aptech>

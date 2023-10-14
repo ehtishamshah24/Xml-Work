@@ -3,7 +3,7 @@
 
 <!ELEMENT aptech (faculty*, it)>
 <!ELEMENT faculty ( name, designation)>
-<!ELEMENT it (name, designation, salary)>
+<!ELEMENT it (salary)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT designation (#PCDATA)>
 <!ELEMENT salary (#PCDATA)>
