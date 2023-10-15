@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE company SYSTEM "external.dtd" [
+<!ENTITY company  "Aptech Shahra-e-Faisal">
+]>
+<company>
+    <employee>
+        <name>Saad</name>
+        <number>0342-5453720</number>
+        <password>$aad3705</password>
+
+    </employee>
+
+    <client>
+        <name></name>
+        <email></email>
+        <password></password>
+    </client>
+</company>
