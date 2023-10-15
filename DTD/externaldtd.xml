@@ -1,18 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE company SYSTEM "external.dtd" [
-<!ENTITY company  "Aptech Shahra-e-Faisal">
+<!ENTITY ps  "pass1122">
 ]>
 <company>
     <employee>
         <name>Saad</name>
         <number>0342-5453720</number>
         <password>$aad3705</password>
+    </employee>
 
+    <employee>
+        <name>Uzair</name>
+        <number>0345-6735271</number>
+        <password>fahad@$786</password>
+    </employee>
+
+    <employee>
+        <name>Hamza</name>
+        <number>0347-27736718</number>
+        <password>hmzaa0192$</password>
+    </employee>
+
+    <employee>
+        <name>Adnan</name>
+        <number>0320-52261927</number>
+        <password>Adn7382</password>
     </employee>
 
     <client>
-        <name></name>
-        <email></email>
-        <password></password>
+        <name>Fahad</name>
+        <email domain="@gmail.com">fahad786@gmail.com</email>
+        <password>&ps;</password>
     </client>
 </company>
