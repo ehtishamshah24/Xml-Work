@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aptech
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="index.xsd">
+
+    <faculty>
+        <name>Hamza</name>
+        <designation>Faculty</designation>
+        <salary>120000</salary>
+    </faculty>
+
+    <faculty>
+        <name>Ali</name>
+        <designation>Senior Faculty</designation>
+        <salary>150000</salary>
+    </faculty>
+    
+
+    <it>
+        <name>Saad</name>
+        <age>22</age>
+        <email>saad731@gmail.com</email>
+        <password>$aad@137</password>
+    </it>
+
+    <it>
+        <name>Fahad</name>
+        <age>24</age>
+        <email>fahad385@gmail.com</email>
+        <password>faahd@583</password>
+    </it>
+    
+</aptech>
