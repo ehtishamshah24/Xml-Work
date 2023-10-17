@@ -29,7 +29,7 @@
 
     <client>
         <name>Fahad</name>
-        <email domain="@gmail.com">fahad786@gmail.com</email>
+        <email Domain="@gmail.com">fahad786@gmail.com</email>
         <password>&ps;</password>
     </client>
 </company>
