@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="data.xsl"?>
+
+<aptech>
+    <faculty>
+        <name>Hamza</name>
+        <designation>Senior faculty</designation>
+        <age>21</age>
+    </faculty>
+    <faculty>
+        <name>Ali</name>
+        <designation>Senior faculty</designation>
+        <age>26</age>
+    </faculty>
+    <faculty>
+        <name>Uzair</name>
+        <designation>Senior faculty</designation>
+        <age>24</age>
+    </faculty>
+
+</aptech>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="data2.xsl"?>
+
+<category>
+
+<product>
+    <name>Audi A3</name>
+    <image>audi_a3.jpg</image>
+    <price>7750000</price>
+</product>
+
+<product>
+    <name>Audi A6</name>
+    <image>audi_a3.jpg</image>
+    <price>17500000</price>
+</product>
+
+<product>
+    <name>Mark X</name>
+   <image>audi_a6.jpg</image>
+    <price>6580000</price>
+</product>
+
+<product>
+    <name>Mahindra Thar</name>
+    <image>thar1.jpg</image>
+    <price>8530000</price>
+</product>
+
+</category>

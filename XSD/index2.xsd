@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
-    <xs:element name="company">
+    <xs:element name="category">
         <xs:complexType>
             <xs:sequence>
-                <xs:element name="employee" minOccurs="1" maxOccurs="unbounded">
+                <xs:element name="product" minOccurs="1" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="name" type="xs:string"/>
@@ -18,6 +18,8 @@
                             <xs:element name="name" />
                             <xs:element name="phone" />
                             <xs:element name="email" />
+                            <xs:element name="image"  />
+                            <xs:element name="price" type="xs:integer"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
