@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;    
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: chocolate;
+}
+
+table{
+    margin: 20px auto;
+}
+table th{
+    background-color: rgb(65, 201, 124);
+    padding: 7px;
+    border-radius: 2px;
+    color: white;
+}
+table td{
+    padding: 5px;
+    border: 1px solid rgba(138, 132, 132, 0.445);
+    font-size: 12px;
+    text-align: center;
+}

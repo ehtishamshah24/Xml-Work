@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="index.xsl"?>
+
+<company>
+
+    <staff>
+        <sno>1</sno>
+        <id>E02387</id>
+        <name>Emily Davis</name>
+        <jobtitle>Sr.Manager</jobtitle>
+        <department>IT</department>
+        <businessunit>Research And Development</businessunit>
+        <gender>Female</gender>
+        <age>55</age>
+        <hiredate>04/08/2016</hiredate>
+        <annualsalary>$141,601</annualsalary>
+        <bonus>15%</bonus>
+        <country>United States</country>
+        <city>Seattle</city>
+        <exitdate>10/16/2021</exitdate>
+    </staff>
+
+    <staff>
+        <sno>2</sno>
+        <id>E04105</id>
+        <name>Theodore Dinh</name>
+        <jobtitle>Technical Architect</jobtitle>
+        <department>IT</department>
+        <businessunit>Manfacturing</businessunit>
+        <gender>Male</gender>
+        <age>59</age>
+        <hiredate>10/10/2010</hiredate>
+        <annualsalary>$99,975</annualsalary>
+        <bonus>0%</bonus>
+        <country>China</country>
+        <city>Chongqing</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>3</sno>
+        <id>E02572</id>
+        <name>Luna Sanders</name>
+        <jobtitle>Director</jobtitle>
+        <department>Finance</department>
+        <businessunit>Speciality Product</businessunit>
+        <gender>Female</gender>
+        <age>50</age>
+        <hiredate>10/26/2006</hiredate>
+        <annualsalary>$163,099</annualsalary>
+        <bonus>20%</bonus>
+        <country>United States</country>
+        <city>Chicago</city>
+        <exitdate>03/08/2018</exitdate>
+    </staff>
+
+    <staff>
+        <sno>4</sno>
+        <id>E02573</id>
+        <name>Elizabeth</name>
+        <jobtitle>Computer System Maneger</jobtitle>
+        <department>IT</department>
+        <businessunit>Manufacturing</businessunit>
+        <gender>Female</gender>
+        <age>30</age>
+        <hiredate>06/18/2015</hiredate>
+        <annualsalary>$84,913</annualsalary>
+        <bonus>7%</bonus>
+        <country>United States</country>
+        <city>Chicago</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>5</sno>
+        <id>E02574</id>
+        <name>Richard</name>
+        <jobtitle>Sr.Analyst</jobtitle>
+        <department>Finance</department>
+        <businessunit>Manufacturing</businessunit>
+        <gender>Male</gender>
+        <age>55</age>
+        <hiredate>11/20/1995</hiredate>
+        <annualsalary>$95,409</annualsalary>
+        <bonus>0%</bonus>
+        <country>United States</country>
+        <city>Phoenix</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>6</sno>
+        <id>E02575</id>
+        <name>Christopher</name>
+        <jobtitle>Account Representative</jobtitle>
+        <department>Sales</department>
+        <businessunit>Corporate</businessunit>
+        <gender>Male</gender>
+        <age>57</age>
+        <hiredate>01/14/2007</hiredate>
+        <annualsalary>$50,994</annualsalary>
+        <bonus>0%</bonus>
+        <country>China</country>
+        <city>Chongqing</city>
+        <exitdate>04/02/2019</exitdate>
+    </staff>
+
+    <staff>
+        <sno>7</sno>
+        <id>E02576</id>
+        <name>Emma</name>
+        <jobtitle>Manager</jobtitle>
+        <department>IT</department>
+        <businessunit>Corporate</businessunit>
+        <gender>Female</gender>
+        <age>37</age>
+        <hiredate>09/21/2013</hiredate>
+        <annualsalary>$119,746</annualsalary>
+        <bonus>10%</bonus>
+        <country>United States</country>
+        <city>Phoenix</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>8</sno>
+        <id>E02577</id>
+        <name>Anthony</name>
+        <jobtitle>Analyst</jobtitle>
+        <department>Finance</department>
+        <businessunit>Manufacturing</businessunit>
+        <gender>Male</gender>
+        <age>25</age>
+        <hiredate>12/12/2020</hiredate>
+        <annualsalary>$41,336</annualsalary>
+        <bonus>0%</bonus>
+        <country>United States</country>
+        <city>Miami</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>9</sno>
+        <id>E02578</id>
+        <name>Joshua</name>
+        <jobtitle>Manager</jobtitle>
+        <department>Accounting</department>
+        <businessunit>Manufacturing</businessunit>
+        <gender>Male</gender>
+        <age>29</age>
+        <hiredate>01/25/2019</hiredate>
+        <annualsalary>$113,537</annualsalary>
+        <bonus>6%</bonus>
+        <country>United States</country>
+        <city>Austin</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>10</sno>
+        <id>E02579</id>
+        <name>Sarah</name>
+        <jobtitle>Sr.Analyst</jobtitle>
+        <department>Finance</department>
+        <businessunit>Speciality Product</businessunit>
+        <gender>Female</gender>
+        <age>34</age>
+        <hiredate>07/14/2018</hiredate>
+        <annualsalary>$77,203</annualsalary>
+        <bonus>0%</bonus>
+        <country>United States</country>
+        <city>Chicago</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>11</sno>
+        <id>E02580</id>
+        <name>Nicole</name>
+        <jobtitle>Sr.Manager</jobtitle>
+        <department>Human Resources</department>
+        <businessunit>Manufacturing</businessunit>
+        <gender>Female</gender>
+        <age>36</age>
+        <hiredate>02/11/2009</hiredate>
+        <annualsalary>$156,339</annualsalary>
+        <bonus>15%</bonus>
+        <country>United States</country>
+        <city>Miami</city>
+        <exitdate>11/01/2020</exitdate>
+    </staff>
+
+    
+    <staff>
+        <sno>12</sno>
+        <id>E02580</id>
+        <name>John Smith</name>
+        <jobtitle>Manager</jobtitle>
+        <department>Sales</department>
+        <businessunit>Markiting</businessunit>
+        <gender>Male</gender>
+        <age>35</age>
+        <hiredate>15/03/2021</hiredate>
+        <annualsalary>$150,000</annualsalary>
+        <bonus>9%</bonus>
+        <country>United States</country>
+        <city>New York</city>
+        <exitdate>-</exitdate>
+    </staff>
+    
+    <staff>
+        <sno>13</sno>
+        <id>E02581</id>
+        <name>Sarah Smith</name>
+        <jobtitle>Analyst</jobtitle>
+        <department>Finance</department>
+        <businessunit>Speciality Product</businessunit>
+        <gender>Female</gender>
+        <age>28</age>
+        <hiredate>12/10/2020</hiredate>
+        <annualsalary>$80,000</annualsalary>
+        <bonus>0%</bonus>
+        <country>United States</country>
+        <city>Los Angeles</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>14</sno>
+        <id>E02582</id>
+        <name>Jose Handerson</name>
+        <jobtitle>Director</jobtitle>
+        <department>Human Resources</department>
+        <businessunit>Speciality product</businessunit>
+        <gender>Male</gender>
+        <age>41</age>
+        <hiredate>04/17/2015</hiredate>
+        <annualsalary>$152,350</annualsalary>
+        <bonus>23%</bonus>
+        <country>United States</country>
+        <city>Columbus</city>
+        <exitdate>-</exitdate>
+    </staff>
+
+    <staff>
+        <sno>15</sno>
+        <id>E02583</id>
+        <name>Camila Rogers</name>
+        <jobtitle>Controls Engineer</jobtitle>
+        <department>Engineering</department>
+        <businessunit>Speciality product</businessunit>
+        <gender>Female</gender>
+        <age>41</age>
+        <hiredate>07/23/2002</hiredate>
+        <annualsalary>$109,851</annualsalary>
+        <bonus>0%</bonus>
+        <country>United States</country>
+        <city>Seattle</city>
+        <exitdate>03-09-2021</exitdate>
+    </staff>
+
+03490655726
+
+</company>

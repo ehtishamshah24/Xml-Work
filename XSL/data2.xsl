@@ -16,7 +16,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
         <h1 style="color:red">Data Print</h1>
 
         <table border="1">
-            <tr  >
+            <tr>
               <th>Name</th>
               <th>Price</th>
               <th>Image</th>
