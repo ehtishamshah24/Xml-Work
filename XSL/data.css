@@ -1,0 +1,33 @@
+*{
+    font-family: sans-serif;
+}
+
+
+h1{
+    color: red;
+
+}
+div{
+
+}
+table{
+    border-radius: 5px;
+    border: 1px solid green;
+
+
+}
+table tr th {
+    padding: 10px;
+    border: 1px solid rgb(177, 175, 175);
+    background-color: bisque;
+    color: rgb(105, 63, 139);
+    border-radius: 3px;
+
+}
+
+table tr td {
+    padding: 10px;
+    border: 1px solid rgb(177, 175, 175);
+    border-radius: 3px;
+    font-size: 15px;
+}

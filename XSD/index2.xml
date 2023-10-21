@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<company
+<category
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="index2.xsd">
 
-    <employee>
-        <name>Usman</name>
-        <salary>80000</salary>
-        <email>usman66554@gmail.com</email>
-    </employee>
+    <product>
+        <name>Audi A3</name>
+        <image><img alt="Audi-A3" src="audi_a3.jpg"/></image>
+        <price>7750000</price>
+    </product>
 
-    <it>
-        <name></name>
-        <phone></phone>
-        <email></email>
-    </it>
-    
-</company>
+    <product>
+        <name>Audi A6</name>
+        <image><img alt="Audi-A3" src="audi_a6.jpg"/></image>
+        <price>17500000</price>
+    </product>
+
+    <product>
+        <name>Mark X</name>
+        <image><img alt="Audi-A3" src="markx.jpg"/></image>
+        <price>6580000</price>
+    </product>
+
+    <product>
+        <name>Mahindra Thar</name>
+        <image><img alt="Audi-A3" src="thar1.jpg.jpg"/></image>
+        <price>8530000</price>
+    </product>
+
+</category>
