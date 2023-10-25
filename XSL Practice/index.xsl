@@ -17,6 +17,7 @@
                 <h1>Company Data</h1>
 
                 <table>
+                    <thead>
                     <tr>
                         <th>S.No</th>
                         <th>ID</th>
@@ -33,7 +34,9 @@
                         <th>City</th>
                         <th>Exit Date</th>
                     </tr>
+                </thead>
                     <xsl:for-each select="company/staff">
+                    <tbody>
                         <tr>
                             <td>
                                 <xsl:value-of select="sno"/>
@@ -78,6 +81,7 @@
                                 <xsl:value-of select="exitdate"/>
                             </td>
                         </tr>
+                    </tbody>
                     </xsl:for-each>
                 </table>
 
